@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/prolog/5-working-with-files-and-io/","dgPassFrontmatter":true,"noteIcon":""}
+{"dg-publish":true,"permalink":"/prolog/5-working-with-files-and-io/","noteIcon":""}
 ---
 
 - Reading from and writing to files.
