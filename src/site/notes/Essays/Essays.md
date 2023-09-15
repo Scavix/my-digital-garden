@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/essays/essays/","noteIcon":""}
 ---
 
+>Playlist retrieved from youtube through python API call to google APIS [[Essays/Script\|Code here]]
 - [[Why You Should Get Into More Weird Stuff\|Why You Should Get Into More Weird Stuff]]
 - [[The Real Lost World - New Caledonia\|The Real Lost World - New Caledonia]]
 - [[Why You Should Watch Experimental Documentaries\|Why You Should Watch Experimental Documentaries]]
