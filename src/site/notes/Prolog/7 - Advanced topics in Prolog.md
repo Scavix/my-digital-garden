@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/prolog/7-advanced-topics-in-prolog/","dgPassFrontmatter":true,"noteIcon":""}
+{"dg-publish":true,"permalink":"/prolog/7-advanced-topics-in-prolog/","noteIcon":""}
 ---
 
 - Dinamic Programming assert/retract
