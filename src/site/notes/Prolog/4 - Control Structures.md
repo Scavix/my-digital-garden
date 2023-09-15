@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/prolog/4-control-structures/","dgPassFrontmatter":true,"noteIcon":""}
+{"dg-publish":true,"permalink":"/prolog/4-control-structures/","noteIcon":""}
 ---
 
 ### Backtracking and its importance
