@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/index/","tags":["gardenEntry"]}
+{"dg-publish":true,"dg-home":true,"permalink":"/index/","tags":["gardenEntry"],"dgPassFrontmatter":true,"noteIcon":""}
 ---
 
 [[Prolog/Prolog journey\|Prolog journey]]
-[[Essays/Essays\|Essays]]
-[[Biblos/Books\|Books]]
-[[Kinimatografos/Movies\|Movies]]
+[[Essays\|Essays]]
+[[Books\|Books]]
+[[Movies\|Movies]]
