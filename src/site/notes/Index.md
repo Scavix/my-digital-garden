@@ -3,6 +3,6 @@
 ---
 
 [[Prolog/Prolog journey\|Prolog journey]]
-[[Essays\|Essays]]
+[[Essays/Essays\|Essays]]
 [[Books\|Books]]
 [[Movies\|Movies]]
