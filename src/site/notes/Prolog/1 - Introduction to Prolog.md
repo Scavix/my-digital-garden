@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/prolog/1-introduction-to-prolog/","dgPassFrontmatter":true,"noteIcon":""}
+{"dg-publish":true,"permalink":"/prolog/1-introduction-to-prolog/","noteIcon":""}
 ---
 
 >All humans are mortal. Socrates is human. Therefore Socrates is mortal.
