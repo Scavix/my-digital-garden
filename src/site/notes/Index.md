@@ -4,6 +4,6 @@
 
 # Digital Garden Index
 [[Prolog/Prolog journey\|Prolog journey]]
-[[Essays/Essays\|Essays]]
-[[Books\|Books]]
+[[Essays/Essays Index\|Essays Index]]
+[[Biblos/Books Index\|Books Index]]
 [[Movies\|Movies]]
