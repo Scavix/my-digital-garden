@@ -6,4 +6,4 @@
 [[Prolog/Prolog journey\|Prolog journey]]
 [[Essays/Essays Index\|Essays Index]]
 [[Biblos/Books Index\|Books Index]]
-[[Movies\|Movies]]
+[[Movies Index\|Movies Index]]
