@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":false,"permalink":"/prolog/prolog-journey/","dgPassFrontmatter":true,"noteIcon":""}
+{"dg-publish":true,"permalink":"/prolog/prolog-journey/","noteIcon":""}
 ---
 
 - [[Prolog/1 - Introduction to Prolog\|1 - Introduction to Prolog]]
