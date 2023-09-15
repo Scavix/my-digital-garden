@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/prolog/3-lists-and-recursion-in-prolog/","dgPassFrontmatter":true,"noteIcon":""}
+{"dg-publish":true,"permalink":"/prolog/3-lists-and-recursion-in-prolog/","noteIcon":""}
 ---
 
 ### List syntax
