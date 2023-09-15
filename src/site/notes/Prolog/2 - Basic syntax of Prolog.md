@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/prolog/2-basic-syntax-of-prolog/","dgPassFrontmatter":true,"noteIcon":""}
+{"dg-publish":true,"permalink":"/prolog/2-basic-syntax-of-prolog/","noteIcon":""}
 ---
 
 ### Atoms
