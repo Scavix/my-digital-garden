@@ -3,6 +3,7 @@
 ---
 
 - [[Essays/Why You Should Get Into More Weird Stuff\|Why You Should Get Into More Weird Stuff]]
+- [[Essays/Why You Should Get Into More Weird Stuff\|Why You Should Get Into More Weird Stuff]]
 - [[The Real Lost World - New Caledonia\|The Real Lost World - New Caledonia]]
 - [[Why You Should Watch Experimental Documentaries\|Why You Should Watch Experimental Documentaries]]
 - [[Ergodic Literature - The Weirdest Book Genre\|Ergodic Literature - The Weirdest Book Genre]]
