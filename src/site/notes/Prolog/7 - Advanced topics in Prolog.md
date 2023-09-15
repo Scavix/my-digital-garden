@@ -1,0 +1,13 @@
+---
+dg-publish: true
+---
+- Dinamic Programming assert/retract
+- Metaprogramming, Defining custom operators and reflection
+- Concurrency
+- Prolog for web development
+- Modular programming in Prolog
+- Prolog and Artificial Intelligence
+- NLP
+- Constraint Logic Programmin
+- DCG
+- Theorem Provers
