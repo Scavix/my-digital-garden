@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/prolog/6-prolog-search-and-backtracking/","dgPassFrontmatter":true,"noteIcon":""}
+{"dg-publish":true,"permalink":"/prolog/6-prolog-search-and-backtracking/","noteIcon":""}
 ---
 
 - Depth-First Search (DFS) e BFS in Prolog.
