@@ -1,6 +1,7 @@
 ---
-dg-publish: true
+{"dg-publish":true,"permalink":"/prolog/7-advanced-topics-in-prolog/","dgPassFrontmatter":true,"noteIcon":""}
 ---
+
 - Dinamic Programming assert/retract
 - Metaprogramming, Defining custom operators and reflection
 - Concurrency
