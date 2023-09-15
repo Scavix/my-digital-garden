@@ -2,9 +2,9 @@
 {"dg-publish":true,"permalink":"/essays/essays/","noteIcon":""}
 ---
 
-- [[Essays/Why You Should Get Into More Weird Stuff\|Why You Should Get Into More Weird Stuff]]
-- [[Essays/The Real Lost World - New Caledonia\|The Real Lost World - New Caledonia]]
-- [[Essays/Why You Should Watch Experimental Documentaries\|Why You Should Watch Experimental Documentaries]]
+- [[Why You Should Get Into More Weird Stuff\|Why You Should Get Into More Weird Stuff]]
+- [[The Real Lost World - New Caledonia\|The Real Lost World - New Caledonia]]
+- [[Why You Should Watch Experimental Documentaries\|Why You Should Watch Experimental Documentaries]]
 - [[Ergodic Literature - The Weirdest Book Genre\|Ergodic Literature - The Weirdest Book Genre]]
 - [[Cure - Creating The Scariest Non-Horror Film\|Cure - Creating The Scariest Non-Horror Film]]
 - [[Fiona Apple - When Sensitivity is a Gift\|Fiona Apple - When Sensitivity is a Gift]]
