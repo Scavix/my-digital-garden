@@ -1,6 +1,7 @@
 ---
-dg-publish: true
+{"dg-publish":true,"permalink":"/prolog/3-lists-and-recursion-in-prolog/","dgPassFrontmatter":true,"noteIcon":""}
 ---
+
 ### List syntax
 A #list is a fundamental data structure used to represent collections of elements. Lists can contain a mix of constants, variables, and even other lists. Lists are enclosed in square brackets `[...]`, and elements within a list are separated by commas.
 ```prolog
@@ -9,14 +10,7 @@ MyList = [apple, 42, X, [a, b, c]].
 ### Lists manipulation
 Pattern matching allows you to extract elements from a list or split a list into its head and tail. eg:
 ```prolog
-%%% list_predicate/3
-list_predicate([H|T],H,T).
-
-?- list_predicate([1,2,3],H,T). % true and H=1 and T=[2,3]
-```
-It is in fact possible to disassemble a list like that! what happens is that H (Head) is unified with the first list element, and T (Tail) unifiend with the remaining portion of list. It is also possible to create lists using the same predicate.
-```prolog
-%%% list_predicate/3
+% list_predicate/3
 list_predicate([H|T],H,T).
 
 ?- list_predicate(List,1,[2,3]). % true and List = [1,2,3]
@@ -64,4 +58,4 @@ Prolog provides built-in predicates for various list operations, including:
 - `reverse/2`: Reverses the order of elements in a list.
 - `nth0/3` and `nth1/3`: Access elements at specific positions in a list (0-based or 1-based indexing).
 
-[[4 - Control Structures]]
+[[Prolog/4 - Control Structures\|4 - Control Structures]]
