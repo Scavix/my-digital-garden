@@ -20,7 +20,7 @@ human(socrates).
 %%% likes/2
 likes(john, pizza).
 
- mortal/1
+% mortal/1
 mortal(X) :- human(X).
 ```
 In the snippet, "mortal(X)" is the head, which states that X is mortal if the condition in the body is satisfied. The condition in the body is "human(X)," which means that X must be a human for X to be considered mortal. So, if X is a human, Prolog will infer that X is mortal.
