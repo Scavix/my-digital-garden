@@ -29,45 +29,37 @@ Rules can have "more conditions", we can a comma to separate them, and the condi
 % bigger_than_five/1
 bigger_than_five(X):- X>5.
 
-?- bigger_than_five(9). %% true
-?- bigger_than_five(3). %% false
-?- bigger_than_five(banana). %% error, solution?
+?- bigger_than_five(9). % true
+?- bigger_than_five(3). % false
+?- bigger_than_five(banana). % error, solution?
 
 safer_bigger_than_five(X):-
 	X>5,
 	integer(x).
 
-?- bigger_than_five(banana). %% false
+?- bigger_than_five(banana).   % false
 ```
 ### Unification, is/2 and return values
 The #unification is the process of finding values for variables that make two or more terms equal. Prolog does not really return values, but answers to questions. That is why it may be important sometimes to use well unification to solve problems.
 We already saw unification in action, but it is possible to use a "explicit" unification that could be useful in some scenarios (using the unification operator =/2). eg
 ```prolog
-bigger_than_five(X,Y):-
-	X>5,
-	Y = 'it is bigger than 5'.
-
-?- bigger_than_five(6,Y). % true and Y = 'it is bigger than 5'
-```
-Arithmetic operations are typically performed using the `is` predicate. The `is` predicate is used to evaluate arithmetic expressions and assign the result to a variable. This is necessary because arithmetic expressions are treated as atoms. eg:
-```prolog
-%%% square1/2
+% square1/2
 square1(X,Y):- Y = X**2.
 
-?- square(5,X). %% true and X = 5**2
+?- square(5,X).   % true and X = 5**2
 
 %%% square2/2
 square2(X,Y):- Y is X**2.
 
-?- square(5,X). %% true and X = 25
+?- square(5,X).   % true and X = 25
 ```
 ### Wildcard
 A #wildcard is often referred to as "anonymous variable." Anonymous variables are represented by an underscore `_` and are used when you want to ignore or don't care about the specific value of a variable in a query or rule. eg:
 ```prolog
 likes(john, laura).
 
-?- likes(john, X). % true and X = laura
-?- likes(john, _). % true
+?- likes(john, X).   % true and X = laura
+?- likes(john, _).   % true
 ```
 
 [[Prolog/3 - Lists and recursion in Prolog\|3 - Lists and recursion in Prolog]]
