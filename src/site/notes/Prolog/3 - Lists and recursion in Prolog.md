@@ -10,7 +10,14 @@ MyList = [apple, 42, X, [a, b, c]].
 ### Lists manipulation
 Pattern matching allows you to extract elements from a list or split a list into its head and tail. eg:
 ```prolog
-% list_predicate/3
+%%% list_predicate/3
+list_predicate([H|T],H,T).
+
+?- list_predicate([1,2,3],H,T). % true and H=1 and T=[2,3]
+```
+It is in fact possible to disassemble a list like that! what happens is that H (Head) is unified with the first list element, and T (Tail) unifiend with the remaining portion of list. It is also possible to create lists using the same predicate.
+```prolog
+%%% list_predicate/3
 list_predicate([H|T],H,T).
 
 ?- list_predicate(List,1,[2,3]). % true and List = [1,2,3]
