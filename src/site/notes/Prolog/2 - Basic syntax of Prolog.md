@@ -1,6 +1,7 @@
 ---
-dg-publish: true
+{"dg-publish":true,"permalink":"/prolog/2-basic-syntax-of-prolog/","noteIcon":""}
 ---
+
 ### Atoms
 A #atom is used to represent fixed and unchanging value, such as a name, label, or symbol. Atoms are typically written in lowercase letters, enclosed in single quotes, but they can also be written without quotes if they start with a lowercase letter and don't contain any special characters.
 ```prolog
@@ -133,4 +134,4 @@ likes(john, laura).
 ?- likes(john, _).   % true
 ```
 
-[[3 - Lists and recursion in Prolog]]
+[[Prolog/3 - Lists and recursion in Prolog\|3 - Lists and recursion in Prolog]]
