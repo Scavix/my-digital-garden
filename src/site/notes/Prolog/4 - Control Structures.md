@@ -36,7 +36,16 @@ greater_than(X, Y) :- X > Y.
 %%% lesser_than/2
 lesser_than(X, Y) :- X < Y.
 
-% person/1
+%%% compare_numbers/3
+compare_numbers(X, Y, Result) :-
+    X > Y -> call(greater_than(X, Y), Result) ; call(lesser_than(X, Y), Result).
+```
+### Higher order predicates
+In Prolog, `findall/3`, `bagof/3`, and `setof/3` are built-in predicates used for collecting and organizing solutions to queries. These predicates help you retrieve and manipulate sets of solutions based on certain criteria.
+**`findall/3`** is used to collect all solutions to a query and store them in a list. It retrieves all instances that satisfy a given goal, regardless of duplicates.
+The syntax is: `findall(+Template, +Goal, -List)`.
+```prolog
+%%% person/1
 person(john).
 person(mary).
 person(jane).
